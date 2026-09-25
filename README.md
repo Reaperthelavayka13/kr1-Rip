@@ -32,4 +32,4 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://reaperthelavayka13.github.io/kr_1_fib/
+GitHub Pages: https://reaperthelavayka13.github.io/kr1-Rip/
